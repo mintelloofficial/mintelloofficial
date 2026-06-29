@@ -30,7 +30,7 @@
 
 - 🔗 Website — **[mintello.io](https://mintello.io)**
 - 🐦 X — **[@mintelloHQ](https://x.com/mintelloHQ)**
-- 💬 Telegram — **[@mintello_official](https://t.me/mintello_official)**
+- 💬 Telegram — **[@MintelloOfficial](https://t.me/MintelloOfficial)**
 - 🎵 TikTok — **[@mintello.official](https://www.tiktok.com/@mintello.official)**
 
 ### 🔐 Security
